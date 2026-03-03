@@ -6,7 +6,7 @@ This application allows you to create, update, delete, and manage tasks directly
 
 ---
 
-## Project URL: https://github.com/idanyfr-sudo/task-cli/tree/main
+### Project URL: https://roadmap.sh/projects/task-tracker
 
 ---
 
