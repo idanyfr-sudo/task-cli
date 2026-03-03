@@ -6,6 +6,10 @@ This application allows you to create, update, delete, and manage tasks directly
 
 ---
 
+## Project URL: https://github.com/idanyfr-sudo/task-cli/tree/main
+
+---
+
 ## Installation
 
 Clone the repository:
@@ -90,6 +94,7 @@ task-cli mark 1 done
 - Mark tasks as `todo`, `in-progress`, or `done`
 
 ---
+
 
 ## Author
 
