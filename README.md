@@ -1,10 +1,10 @@
-Task Tracker CLI
+##Task Tracker CLI
 A simple command-line task management tool built with Python.
 
 This application allows you to create, update, delete, and manage tasks directly from the terminal.
 
 
-Installation
+#Installation
 Clone the repository:
 
 git clone https://github.com/yourusername/task-tracker-cli.git
